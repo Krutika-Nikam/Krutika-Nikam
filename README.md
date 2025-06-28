@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm a passionate Data Analyst with a B.Tech degree in Artificial Intelligence and Data Science. I specialize in turning raw data into meaningful insights through data cleaning, analysis, and visualization. <br><br>I enjoy solving real-world problems with data and building interactive dashboards that support smarter business decisions.<br>
+I'm a passionate Data Analyst with a B.Tech degree in Artificial Intelligence and Data Science. I specialize in turning raw data into meaningful insights through data cleaning, analysis, and visualization and predictive modeling. <br> I enjoy transforming complex datasets into meaningful narratives that drive decision-making.
+<br>I enjoy solving real-world problems with data and building interactive dashboards that support smarter business decisions.<br>
 
 
 ## 🌐 Socials:
